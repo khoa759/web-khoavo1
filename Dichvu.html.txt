@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Anh Khoa Photoshop | Dịch vụ</title>
+</head>
+<body>
+    <h1>Anh Khoa Photoshop</h1>
+
+    <nav>
+        <a href="trangchu.html">Trang chủ</a> |
+        <a href="thongtin.html">Thông tin</a> |
+        <a href="dichvu.html">Dịch vụ</a>
+    </nav>
+
+    <hr>
+
+    <h2>Đăng ký để nhận thông báo mới từ chúng tôi</h2>
+    <form>
+        <input type="email" name="email" placeholder="Nhập Email...">
+        <input type="submit" value="Đăng ký">
+    </form>
+
+    <hr>
+
+    <h2>Các dịch vụ Photoshop</h2>
+
+    <h3>🖼️ Chỉnh sửa ảnh chuyên nghiệp</h3>
+    <p>Chỉnh màu, cắt ghép, xóa vật thể, làm đẹp ảnh chân dung, phục hồi ảnh cũ.  
+    <strong>Giá:</strong> từ 50.000đ / ảnh</p>
+
+    <h3>🎨 Thiết kế đồ họa</h3>
+    <p>Thiết kế banner, poster, logo, ảnh bìa, và các sản phẩm quảng cáo.  
+    <strong>Giá:</strong> từ 150.000đ / sản phẩm</p>
+
+    <h3>📚 Khóa học Photoshop</h3>
+    <p>Đào tạo Photoshop cơ bản đến nâng cao, hướng dẫn kỹ năng chỉnh ảnh, ghép ảnh sáng tạo.  
+    <strong>Giá:</strong> từ 500.000đ / khóa</p>
+
+    <hr>
+
+    <h2>Liên hệ</h2>
+    <form>
+        <p><input type="text" name="ten" placeholder="Tên"></p>
+        <p><input type="email" name="email" placeholder="Email"></p>
+        <p><textarea name="noidung" rows="4" cols="30" placeholder="Nội dung..."></textarea></p>
+        <p><input type="submit" value="Gửi"></p>
+    </form>
+
+    <hr>
+
+    <p>Anh Khoa Photoshop, Copyright © 2025</p>
+</body>
+</html>

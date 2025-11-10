@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Anh Khoa Photoshop | Thông tin</title>
+</head>
+<body>
+    <h1>Anh Khoa Photoshop</h1>
+
+    <nav>
+        <a href="trangchu.html">Trang chủ</a> |
+        <a href="thongtin.html">Thông tin</a> |
+        <a href="dichvu.html">Dịch vụ</a>
+    </nav>
+
+    <hr>
+
+    <h2>Đăng ký để nhận thông báo mới từ chúng tôi</h2>
+    <form>
+        <input type="email" name="email" placeholder="Nhập Email...">
+        <input type="submit" value="Đăng ký">
+    </form>
+
+    <hr>
+
+    <h2>Về chúng tôi</h2>
+    <p>
+        Anh Khoa Photoshop là đơn vị chuyên về thiết kế đồ họa, chỉnh sửa ảnh, phục chế ảnh cũ và sáng tạo hình ảnh nghệ thuật.  
+        Chúng tôi luôn lắng nghe nhu cầu của khách hàng, không ngừng đổi mới để mang đến những sản phẩm hình ảnh đẹp mắt và chuyên nghiệp nhất.
+    </p>
+    <p>
+        Với hơn 10 năm kinh nghiệm trong lĩnh vực Photoshop và thiết kế đồ họa, 
+        chúng tôi tự hào đã thực hiện hàng ngàn dự án cho các cá nhân, cửa hàng, và doanh nghiệp trong và ngoài nước.
+    </p>
+
+    <h2>Dịch vụ của chúng tôi</h2>
+    <p>
+        - Chỉnh sửa ảnh chân dung, ảnh sản phẩm, ảnh cưới.<br>
+        - Thiết kế poster, logo, và các sản phẩm quảng cáo.<br>
+        - Phục chế ảnh cũ, tăng độ nét, và chỉnh màu ảnh chuyên nghiệp.<br>
+    </p>
+
+    <hr>
+
+    <p>Anh Khoa Photoshop, Copyright © 2025</p>
+</body>
+</html>

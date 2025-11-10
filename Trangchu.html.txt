@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Anh Khoa Photoshop | Trang chủ</title>
+</head>
+<body>
+    <h1>Thiết kế Photoshop chuyên nghiệp.</h1>
+    <p>Chúng tôi chuyên cung cấp các dịch vụ thiết kế, chỉnh sửa ảnh, phục chế ảnh cũ và sáng tạo đồ họa chuyên nghiệp theo yêu cầu của khách hàng.</p>
+
+    <hr>
+
+    <h2>Đăng ký để nhận thông báo mới từ Anh Khoa Photoshop</h2>
+    <form>
+        <input type="email" name="email" placeholder="Nhập Email...">
+        <input type="submit" value="Đăng ký">
+    </form>
+
+    <hr>
+
+    <h2>Công cụ Photoshop</h2>
+    <p>
+        Photoshop cung cấp hàng trăm công cụ mạnh mẽ như Pen Tool, Brush, Eraser, Clone Stamp, 
+        giúp người dùng chỉnh sửa và sáng tạo hình ảnh với độ chính xác cao.
+    </p>
+    <img src="images/tools.png" alt="Công cụ Photoshop" width="100">
+
+    <h2>Hiệu ứng và Layer</h2>
+    <p>
+        Photoshop sử dụng hệ thống Layer linh hoạt, cho phép tạo hiệu ứng ánh sáng, đổ bóng, làm mờ, 
+        phối màu và nhiều kỹ thuật đặc biệt để hình ảnh trở nên sống động hơn.
+    </p>
+    <img src="images/layers.png" alt="Hiệu ứng và Layer" width="100">
+
+    <h2>Thiết kế sáng tạo</h2>
+    <p>
+        Với Photoshop, chúng tôi mang đến những thiết kế độc đáo như banner quảng cáo, logo thương hiệu, 
+        bìa album, poster, ảnh nghệ thuật và nhiều sản phẩm sáng tạo khác.
+    </p>
+    <img src="images/design.png" alt="Thiết kế sáng tạo" width="100">
+
+    <hr>
+
+    <p>Anh Khoa Photoshop, Copyright © 2025</p>
+
+    <nav>
+        <a href="trangchu.html">Trang chủ</a> |
+        <a href="thongtin.html">Thông tin</a> |
+        <a href="dichvu.html">Dịch vụ</a>
+    </nav>
+</body>
+</html>
